@@ -4,9 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pb2.Tragamonedas.Tambores;
-import ar.edu.unlam.pb2.Tragamonedas.Tragamonedas;
-
 public class TestTragamonedas {
 
 	@Test
